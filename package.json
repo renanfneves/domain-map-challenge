@@ -1,0 +1,24 @@
+{
+  "name": "domain-map-challenge",
+  "version": "1.0.0",
+  "description": "## Nessa atividade você irá ler uma conversa entre um Domain Expert e um desenvolvedor responsável por criar a aplicação. O seu objetivo é identificar as entidades e casos de uso para essa aplicação com base nessa conversa!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "@types/node": "^20.10.3",
+    "eslint": "^8.55.0",
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.2",
+    "vite-tsconfig-paths": "^4.2.1",
+    "vitest": "^1.0.1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
